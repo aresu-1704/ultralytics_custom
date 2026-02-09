@@ -22,6 +22,7 @@ from .block import (
     C2,
     C2PSA,
     C3,
+    C3f,
     C3TR,
     CIB,
     DFL,
